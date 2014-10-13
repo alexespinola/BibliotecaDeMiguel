@@ -1,0 +1,24 @@
+
+.Layer1 {
+	position:absolute;
+	background:#3333FF;
+	visibility:visible;
+	width:200px;
+	height:115px;
+	border:thin double #003366;
+	overflow:auto;
+	padding-left:10px;
+	z-index:1;
+	left: 0px;
+	top: 0px;	
+}
+.Layer2 {
+	position:absolute;
+	left:220px;
+	top:0px;
+	background:#99FF99;
+	width:200px;
+	height:115px;
+	overflow:auto;
+	z-index:2;
+}
